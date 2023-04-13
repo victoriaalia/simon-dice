@@ -1,17 +1,16 @@
-# 👻 POKEDEX
+# 📣 SIMON DICE
 
 ## 🤓 Overview
-  * Pokedex creada con pokeapi
 
 ### 📷 Screenshot
 
-![Diseño escritorio](https://github.com/victoriaalia/pokedex/blob/main/pokedex-e.png)
-![Diseño movil](https://github.com/victoriaalia/pokedex/blob/main/pokedex-m.png)
+![Diseño escritorio](https://github.com/victoriaalia/simon-dice/blob/main/simon-dice.png)
+![Diseño movil](https://github.com/victoriaalia/simon-dice/blob/main/simon-dice-m.png)
 
 ### 🙆 Links
 
-- URL Solución: [Pokedex GitHub](https://github.com/victoriaalia/pokedex)
-- URL sitio desplegado: [Pokedex](https://pokedex-woad-rho.vercel.app/)
+- URL Solución: [Simon Dice GitHub](https://github.com/victoriaalia/simon-dice)
+- URL sitio desplegado: [Simon Dice ](https://simon-dice-delta.vercel.app/)
 
 ## My process
 
