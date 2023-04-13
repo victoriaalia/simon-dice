@@ -4,8 +4,8 @@
 
 ### 📷 Screenshot
 
-![Diseño escritorio](https://github.com/victoriaalia/stats-preview-card/blob/main/screenshot%20desktop.png)
-![Diseño movil](https://github.com/victoriaalia/stats-preview-card/blob/main/screenshot%20mobile.png)
+![Diseño escritorio](https://github.com/victoriaalia/simon-dice/blob/main/simon-dice.png)
+![Diseño movil](https://github.com/victoriaalia/simon-dice/blob/main/simon-dice-m.png)
 
 ### 🙆 Links
 
